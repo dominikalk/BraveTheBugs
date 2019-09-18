@@ -53,3 +53,7 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+/New folder
+
+* linguist-vendored
+*.aspx linguist-vendored=false
