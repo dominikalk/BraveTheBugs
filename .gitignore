@@ -55,5 +55,3 @@ sysinfo.txt
 crashlytics-build.properties
 /New folder
 
-* linguist-vendored
-*.aspx linguist-vendored=false
