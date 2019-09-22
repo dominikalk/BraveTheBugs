@@ -1,5 +1,6 @@
 # BraveTheBugs
-I created a small game for fun for the 2019 Community Game Jam
+I created a small game for fun for the 2019 Community Game Jam. It came 104th overall out of 1050 entries and 49th in the innovation category
+
 It can be seen on https://dominikalk.itch.io/brave-the-bugs
 
 It is a game in which a game designer and programmer try to make a game but the programmer accidentally leaves some bugs ;)
